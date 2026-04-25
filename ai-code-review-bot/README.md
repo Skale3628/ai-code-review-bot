@@ -1,4 +1,4 @@
-# 🤖 AI Code Review Bot
+#  AI Code Review Bot
 
 A production-grade, model-agnostic AI code review bot for **GitHub** and **GitLab**.
 Automatically reviews Pull Requests and Merge Requests with structured feedback, inline comments, and severity-ranked issues.
