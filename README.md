@@ -245,12 +245,3 @@ Contributions are welcome! Please:
 3. Commit your changes: `git commit -m "Feat: add your feature"`
 4. Push and open a Pull Request
 
----
-
-## 📄 License
-
-This project is licensed under the **MIT License** — see the [LICENSE](LICENSE) file for details.
-
----
-
-<p align="center">Built with ❤️ using FastAPI, Python, and your favorite LLM</p>
